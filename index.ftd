@@ -69,15 +69,15 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: SHREY,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
-secondTitle: developer
+firstTitle: FIRST_YEAR
+secondTitle: STUDENT
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: and
-secondTitle: explorer.
+firstTitle: AND
+secondTitle: EXPLORER.
 
 -- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
 role: $lib.home-description-responsive-typography
@@ -91,9 +91,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
-
--- button.primary:
+link: mailto:button.primary:
 title: Schedule a Meeting
 link: YOUR_MEETING_HANLDE
 isNewTab: true

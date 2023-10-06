@@ -91,7 +91,9 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:button.primary:
+link: mailto:YOUR_EMAIL_ADDRESS
+
+-- button.primary:
 title: Schedule a Meeting
 link: YOUR_MEETING_HANLDE
 isNewTab: true
